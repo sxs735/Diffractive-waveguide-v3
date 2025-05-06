@@ -7,5 +7,5 @@ Double-side exit pupil Expander<br>
 <img src="https://github.com/user-attachments/assets/2c143bbf-6ce3-4057-a95c-bb6330b9ef34" height="200">
 <img src="https://github.com/user-attachments/assets/ad7a4405-a5c5-478c-80f9-5439e07f2a82" height="200"><br>
 Three-layer full-color exit pupil expander<br>
-<img src="https://github.com/user-attachments/assets/ba183772-8b33-4e5c-8f49-f22352ba84de)" height="200">
+<img src="https://github.com/user-attachments/assets/ba183772-8b33-4e5c-8f49-f22352ba84de" height="200">
 

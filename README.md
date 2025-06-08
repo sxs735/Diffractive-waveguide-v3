@@ -1,6 +1,5 @@
-<img src="https://github.com/user-attachments/assets/f29cccda-0616-42a5-b6a5-ddf3ebb4868f" height="200">
 
-
+<img src="https://github.com/user-attachments/assets/f29cccda-0616-42a5-b6a5-ddf3ebb4868f" height="400">
 Simple 2D Exit Pupil Expander<br>
 <img src="https://github.com/user-attachments/assets/2fe0b48e-e7de-4d50-80fa-1633e9b4dd7c" height="200">
 <img src="https://github.com/user-attachments/assets/2fabe605-2bc5-4f3e-b19e-8f9426a37ce2" height="200">

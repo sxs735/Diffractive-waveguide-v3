@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f29cccda-0616-42a5-b6a5-ddf3ebb4868f)
+<img src="https://github.com/user-attachments/assets/f29cccda-0616-42a5-b6a5-ddf3ebb4868f" height="200">
 
 
 Simple 2D Exit Pupil Expander<br>

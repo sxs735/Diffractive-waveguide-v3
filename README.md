@@ -1,4 +1,4 @@
-SRG calculator.xlsx
+SRG calculator.xlsx<br>
 <img src="https://github.com/user-attachments/assets/f29cccda-0616-42a5-b6a5-ddf3ebb4868f" height="400"><br>
 Simple 2D Exit Pupil Expander<br>
 <img src="https://github.com/user-attachments/assets/2fe0b48e-e7de-4d50-80fa-1633e9b4dd7c" height="200">
